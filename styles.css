@@ -230,3 +230,11 @@ footer {
 .fab:hover{
   color: #fb2274
 }
+
+.fa{
+  color: black;
+}
+
+.fa:hover{
+  color: #fb2222
+}
