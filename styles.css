@@ -110,7 +110,7 @@ h2 {
 .about-me {
   padding-left: 10%;
   padding-right: 11%;
-  text-align: justify;
+  text-align: match-parent;
   font-size: 1.5rem;
 }
 
