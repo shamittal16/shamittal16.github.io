@@ -22,7 +22,7 @@ nav {
   position: fixed;
   margin: 0;
   width: 100%;
-  background-color: #fb2274;
+  background-color: #fb2222;
 }
 
 .navbar div a {
@@ -35,7 +35,7 @@ nav {
 
 .navbar div a:hover {
   background-color: white;
-  color: #fb2274;
+  color: #fb2222;
 }
 
 .hero-image {
@@ -52,7 +52,7 @@ nav {
   margin: auto;
   font-size: 4vw;
   padding-top: 25vh;
-  color: #fb2274;
+  color: #fb2222;
   padding-bottom: 0;
   margin-bottom: 0;
 }
@@ -62,20 +62,16 @@ nav {
   animation: changecolor 3s infinite;
   padding: 5px;
   display: inline-block;
-  border: solid 5px #fb2274;
+  border: solid 5px #fb2222;
 }
 
 @keyframes changecolor{
   from{
-      /* color: black; */
       border: solid 5px white;
   }
 
-
   to{
-    /* color: #fb2274; */
-    border: solid 5px #fb2274;
-
+    border: solid 5px #fb2222;
   }
 
 }
@@ -94,7 +90,7 @@ section {
 }
 
 h1 {
-  color: #fb2274;
+  color: #fb2222;
   text-align: center;
   font-size: 4rem;
 }
@@ -132,7 +128,7 @@ h2 {
 }
 
 .edu-left {
-  border-right: 2px solid #fb2274;
+  border-right: 2px solid #fb2222;
   text-align: center;
   width: 30%;
 }
@@ -161,7 +157,7 @@ h2 {
 }
 
 .foot {
-  background-color: #fb2274;
+  background-color: #fb2222;
   padding: 20px;
   text-align: center;
 }
@@ -228,7 +224,7 @@ footer {
 }
 
 .fab:hover{
-  color: #fb2274
+  color: #fb2222
 }
 
 .fa{
