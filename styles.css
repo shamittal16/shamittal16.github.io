@@ -144,6 +144,11 @@ h2 {
   justify-content: space-around;
 }
 
+.skill{
+  font-size: 1rem;
+  text-align: center;
+  }
+
 .contact-container {
   display: flex;
   flex-wrap: wrap;
